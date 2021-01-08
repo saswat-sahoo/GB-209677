@@ -25,4 +25,5 @@ Game Begetter
 
 6:Assets
 
-there all the major folders for the project can be found
+
+There all the major folders for the project can be found
